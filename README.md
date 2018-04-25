@@ -1,6 +1,5 @@
 
-# phantomjs-examples
-PhantomJS Examples
+# PhantomJS Examples
 
 **make_screenshot.js**
 ```
